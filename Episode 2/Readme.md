@@ -1,0 +1,15 @@
+# PARCEL
+- Provides a local server
+- HMR- hot module replacement
+- File watching algo
+- Img optimization
+- minification
+- bundling
+- compressing
+- consistent hashing
+- code splitting
+- differential bundling- diff bundles for each browser so that app can run on old browers too
+- diagnostic(pretty error display)
+- host on HTTPS
+- Tree shaking- remove unused code for u 
+- different dev and prod bundles 
